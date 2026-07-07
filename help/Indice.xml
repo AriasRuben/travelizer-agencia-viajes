@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+
+
+<index version="1.0">
+ <indexitem text="Alojamientos" target="alojamientos" />
+	<indexitem text="Descuentos y ofertas" target="descuentos" />
+	<indexitem text="Entradas" target="entradas" />
+	<indexitem text="Introducción a viajes Travelizer" target="intro" />
+
+	<indexitem text="Reservas">
+		<indexitem text="Alojamientos" target="alojamientos" />
+		<indexitem text="Entradas" target="entradas" />
+		<indexitem text="Pack completo" target="ambos" />
+	</indexitem>
+	
+
+
+</index>

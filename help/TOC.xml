@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+
+
+<toc version="1.0">
+  <tocitem text="Ayuda Travelizer" target="intro">
+       <tocitem text="Reservar Entradas" target="entradas"/>
+       <tocitem text="Reservar Alojamientos" target="alojamientos"/>
+       <tocitem text="Paquete Completo" target="ambos"/>
+       <tocitem text="Tabla de Descuentos" target="descuentos"/>
+  </tocitem>
+</toc>
